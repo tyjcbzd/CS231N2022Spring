@@ -4,7 +4,9 @@
 
 ## 数据集下载:🤳🏾
 
-（网盘：链接：https://pan.baidu.com/s/1DZUPQkJBnKmUG8GM_7BYjA 提取码：d3sz）
+Assignment 1 & 2 ---> 网盘：链接：https://pan.baidu.com/s/1DZUPQkJBnKmUG8GM_7BYjA 提取码：d3sz
+
+Assignment 3 ---> 网盘：链接：https://pan.baidu.com/s/13mfJDyRh3g5IRckZi_kXCg  提取码：byk2 
 
 
 ## 文件说明：
